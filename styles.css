@@ -1,7 +1,7 @@
 .contact_div {
   margin: 0 auto;
   padding: 0 0;
-  background: url(../images/contact_section.jpg)no-repeat;
+  background: url(./images/contact_section.jpg)no-repeat;
   background-size: cover;
   display: block;
   background-position: center;
